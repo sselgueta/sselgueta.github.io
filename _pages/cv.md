@@ -41,12 +41,12 @@ Skills
 
 Publications
 ======
-* On the Chemical Abundances of Miras in Clusters: V1 in the Metal-rich Globular NGC 5927. D’Orazi, V., Magurno, D., Bono, G., Matsunaga, N. , Braga, V. F.,  Elgueta, S. S., et al. 2018, ApJ, 855, L9
-* The Orbital and Physical Parameters, and the Distance of the Eclipsing Binary System OGLE-LMC-ECL-25658 in the Large Magellanic Cloud . Elgueta, S. S., Graczyk, D., Gieren, W., et al. 2016, AJ, 152, 29
+On the Chemical Abundances of Miras in Clusters: V1 in the Metal-rich Globular NGC 5927. D’Orazi, V., Magurno, D., Bono, G., Matsunaga, N. , Braga, V. F.,  **Elgueta, S. S.**, et al. 2018, ApJ, 855, L9
+* The Orbital and Physical Parameters, and the Distance of the Eclipsing Binary System OGLE-LMC-ECL-25658 in the Large Magellanic Cloud . **Elgueta, S. S.**, Graczyk, D., Gieren, W., et al. 2016, AJ, 152, 29
 
 Awards
 ======
-**Beca_Chile_Doctorado_en_el_Extranjero,_2016-2020.**
+**Beca Chile Doctorado en el Extranjero, 2016-2020.**
 
 Talks
 ======
