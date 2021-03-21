@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Scarlet's homepage"
 title_separator          : "-"
 name                     : &name "Scarlet Elgueta"
-description              : &description "some work"
+description              : &description "Some work"
 url                      : https://sselgueta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Scarlet"
   avatar           : "profile.png"
-  bio              : "Southern woman living by an ocean away from home."
+  bio              : "Ph.D.(candidate) Astronomy Department, The University of Tokyo "
   location         : "Tokyo, Japan."
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
