@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Astronomy, Universidad de Concepcion, Chile, 2012.
+* Professional Degree of Astronomer, Universidad de Concepcion, Chile, 2013.
+* M.Sc. in Physics, Universidad de Concepcion, Chile, 2016.
+* Ph.D in Astronomy, The University of Tokyo, September 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2014 - March 2016: Research Assistant
+  * Universidad de Concepcion
+  * Duties included: Master's Thesis
+  * Supervisor: Wolfgang Gieren
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills : Python, R, SQL (basic).
+* Astronomical software : IRAF, DS9, Topcat, Molecfit, TelFit, Casa.
+* Languages: Spanish [Native], English [Fluent], Japanese [Basic]
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* On the Chemical Abundances of Miras in Clusters: V1 in the Metal-rich Globular NGC 5927. D’Orazi, V., Magurno, D., Bono, G., Matsunaga, N. , Braga, V. F.,  Elgueta, S. S., et al. 2018, ApJ, 855, L9
+* The Orbital and Physical Parameters, and the Distance of the Eclipsing Binary System OGLE-LMC-ECL-25658 in the Large Magellanic Cloud . Elgueta, S. S., Graczyk, D., Gieren, W., et al. 2016, AJ, 152, 29
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Stellar Populations and the Distance Scale : a Conference in Honor of Jeremy Mould, Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing, China, 11-15 September 2017. [Contributed Talk].
+* Summer School: New Era of The Cosmic Distance Scale, June 29 - July 3, 2015. The University of Tokyo, Tokyo, Japan. [Contributed Talk].
+* XI SOCHIAS annual meeting, 13-14 Jan. 2014, Los Andes, Chile. [Contributed Talk].
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* March 2016 - August 2016: Universidad del Bio Bio, Physics Department. Instructor (Part-time) Professor. Electromagnetism I for Civil Engineering and Mechanical Engineering. Laboratory I, II for Engineering students. 
+* March 2012 - June 2016 : Universidad de Concepcion. Mathematics Department. Teacher Assistant. Algebra I for Political Science. Calculus I and II for Engineering. * March 2016 - June 2016 : Universidad de Concepcion. Physics Department. Physics 3 for Chemistry and Pharmacy.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* January 2015 - January 2016 : Volunteering at "Protectora de la Infancia" Tupahue Childrens home. Hualpen, Concepcion, Chile.
