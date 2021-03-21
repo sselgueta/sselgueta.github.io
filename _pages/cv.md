@@ -58,13 +58,13 @@ Talks
 Teaching
 ======
 * March 2016 - August 2016: Universidad del Bio Bio, Physics Department. Instructor (Part-time) Professor.
-- Electromagnetism I for Civil Engineering and Mechanical Engineering.
-- Laboratory I, II for Engineering students. 
+  - Electromagnetism I for Civil Engineering and Mechanical Engineering.
+  - Laboratory I, II for Engineering students. 
 * March 2012 - June 2016 : Universidad de Concepcion. Mathematics Department. Teacher Assistant.
--  Algebra I for Political Science. 
-- Calculus I and II for Engineering. 
+  -  Algebra I for Political Science. 
+  - Calculus I and II for Engineering. 
 * March 2016 - June 2016 : Universidad de Concepcion. Physics Department. 
-- Physics 3 for Chemistry and Pharmacy.
+  - Physics 3 for Chemistry and Pharmacy.
 
 Service and leadership
 ======
