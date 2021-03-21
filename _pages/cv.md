@@ -46,7 +46,7 @@ Publications
 
 Awards
 ======
-**Beca Chile Doctorado en el Extranjero, 2016-2020. 
+**Beca_Chile_Doctorado_en_el_Extranjero,_2016-2020.**
 
 Talks
 ======
