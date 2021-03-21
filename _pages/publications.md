@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**_ The Orbital and Physical Parameters, and the Distance of the Eclipsing Binary System OGLE-LMC-ECL-25658 in the Large Magellanic Cloud . * Elgueta, S. S., Graczyk, D., Gieren, W., et al. 2016, AJ, 152, 29
